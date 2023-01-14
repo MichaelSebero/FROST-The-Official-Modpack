@@ -1,0 +1,82 @@
+*HUDFramework.esm
+*Unofficial Fallout 4 Patch.esp
+*XDI.esm
+*TheForest.esm
+*TheMarshland.esm
+*FO4_Bug_Fixes_Pack.esp
+*Rusty Face Fix.esp
+*Reverb and Ambiance Overhaul.esp
+*Pilgrim.esp
+*UltraExteriorLighting.esp
+*UltraInteriorLighting.esp
+*Thaylar Lighting 3.2 Base Edition.esp
+*Thaylar Lighting 3.2 VTWO Patch.esp
+*Fixed Alpha Maps.esp
+*True Shadows - All DLC.esp
+*FrozenLakesandIce.esp
+*Conquest.esp
+*CleanMySettlement.esm
+*Lots More Male Hairstyles.esp
+*Lots More Facial Hair.esp
+*powerline.esp
+*SCM.esp
+*Nuclear Winter.esp
+*NW_AllDLC.esp
+*NW_Clothing.esp
+*NW_PollutedClimate.esp
+*Nuclear Winter Invisible Breath.esp
+*AA Lots More Settlers and Enemies.esp
+*Armor_clipping_overhaul.esp
+*Power Armor Overhaul.esp
+*PowerArmor-XLCores.esp
+*HPA.esp
+*DLCRobot - AdditionalVoices.esp
+*CROSS_GoreCrits.esp
+*CROSS_GoreCrits_FarHarborPatch.esp
+*Live Dismemberment - Liebermode.esp
+*Automatron For All.esp
+*Fixed Gobo Effects.esp
+*Flicker Fixer.esp
+*Gloomy Glass.esp
+*NukaColaClassic.esp
+*NukaColaClassic_DLC.esp
+*dD-Enhanced Blood Basic.esp
+*dD - Small Splatter Size.esp
+*dD-Action Ragdoll Force.esp
+*OCDecorator.esp
+*OCDecoratorDLC.esp
+*OCDecorator - No Experience.esp
+*FROST.esp
+*PollutedClimate-Winter.esp
+*PollutedClimate-Winter -  No snow under the roof-Patch.esp
+*RedsFrostFixes.esp
+*aFrostMod.esp
+*FROST - UFO4P Patch.esp
+*New Magazines_(Frost).esp
+*Frost_Marshlands_Patch.esp
+*FROST The Forest Patch.esp
+*RedsFrostBlurRemoval.esp
+*RedsFrostExplosionEffects.esp
+*FROST - LootableCars.esp
+*FROST - It Snowed.esp
+*Frost-Snowy-Weathers.esp
+*FROST_LLCars_Realistic.esp
+*FROST - AccessibleMedTekResearch.esp
+*FROST - AccessibleFortStrong.esp
+*FROST - AccessibleArcJet.esp
+*FROST - AccessibleFortHagen.esp
+*FROST - SuperMutantLocations.esp
+*FROST - Hunkered Down.esp
+*Frost PatchCrossbow.esp
+*DMHelmetMerge.esp
+*FROST_NoECZNReset.esp
+*FROST_NoLeapingFerals.esp
+*SettlementMenuManager.esp
+*Crossbow.esp
+*AssaultRifleOverhaul.esp
+*CombatRifleOverhaul.esp
+*FCF_Main.esp
+*FCF_Previsibines.esp
+*FCF_Previsibines - TheMarshlands.esp
+*FCF_Previsibines-TheForest.esp
+NoLoopingWeaponSounds.esp
