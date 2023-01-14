@@ -3,7 +3,7 @@
                                                                                                                                       
 ## How to install FROST-The-Official-Modpack 
 
-. Make sure your load order matches the one found in Plugins.txt
+. Make sure your load order matches the one found in Plugins.txt.
 
 . You can change your load order quickly by replacing the contents of Fallout 4's [ Plugins.txt ] file.
 
