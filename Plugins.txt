@@ -79,4 +79,3 @@
 *FCF_Previsibines.esp
 *FCF_Previsibines - TheMarshlands.esp
 *FCF_Previsibines-TheForest.esp
-NoLoopingWeaponSounds.esp
