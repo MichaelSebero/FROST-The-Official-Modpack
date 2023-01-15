@@ -3,7 +3,7 @@
                                                                                                                                       
 ## How to install FROST-The-Official-Modpack 
 
-. Extract the contents of the modlist from | https://tinyurl.com/yc2ktn6p | to your Fallout 4's Nexus Mods folder.
+. Extract the contents of the modlist from | https://tinyurl.com/yc2ktn6p | to Fallout 4's Nexus Mods folder.
 
 . Update the mods contained in the modlist if needed.
 
