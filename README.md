@@ -5,7 +5,7 @@
 
 . Extract the contents of the modlist from | https://tinyurl.com/yc2ktn6p | to Fallout 4's Vortex folder.
 
-. Use Vortex to detect and Update the mods contained in the modlist if needed.
+. Use Vortex to detect and update the mods contained in the modlist if needed.
 
 . Make sure your load order matches the one found in Plugins.txt.
 
