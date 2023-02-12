@@ -14,5 +14,7 @@
 
 . The beginning notification after you're done creating your character is a false positive just ignore it.
 
+-----
+
 <p align="center">
 	<img src="https://i.postimg.cc/wMh0fB4L/1.png/" />
