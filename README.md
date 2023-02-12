@@ -18,3 +18,7 @@
 
 <p align="center">
 	<img src="https://i.postimg.cc/wMh0fB4L/1.png/" />
+<p align="center">
+	<img src="https://i.postimg.cc/x87JdpkB/2.png" />
+<p align="center">
+	<img src="https://i.postimg.cc/XJYpk6dT/3.png" />
