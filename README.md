@@ -1,3 +1,6 @@
+<p align="center">
+	<img src="https://i.postimg.cc/wMh0fB4L/1.png/" />
+
 ## How to install FROST-The-Official-Modpack 
 
 . Extract the contents of the modlist from | https://tinyurl.com/yc2ktn6p | to Fallout 4's Vortex folder.
@@ -13,12 +16,3 @@
 . If you're using Pilgrim ENB with my modpack download the patch which enables snowfall.
 
 . The beginning notification after you're done creating your character is a false positive just ignore it.
-
------
-
-<p align="center">
-	<img src="https://i.postimg.cc/wMh0fB4L/1.png/" />
-<p align="center">
-	<img src="https://i.postimg.cc/x87JdpkB/2.png" />
-<p align="center">
-	<img src="https://i.postimg.cc/XJYpk6dT/3.png" />
