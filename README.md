@@ -13,6 +13,6 @@
 
 . Enable loose files | https://tinyurl.com/yhxycx67
 
-. If you're using Pilgrim ENB with my modpack download this patch | https://files.catbox.moe/1rmyjr.zip |
+. If you're using Pilgrim ENB with my modpack download this patch | https://files.catbox.moe/1rmyjr.zip
 	
 . The beginning notification after you're done creating your character is a false positive just ignore it.
