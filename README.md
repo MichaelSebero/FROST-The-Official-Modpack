@@ -11,7 +11,7 @@
 
 . You can change your load order quickly by replacing the contents of Fallout 4's [ Plugins.txt ] file.
 
-. Enable loose files in fallout4.ini | https://pastebin.com/YfjYqeV0
+. Enable loose files in fallout4.ini | https://pastebin.com/9TJ16UPY
 
 . If you're using Pilgrim ENB with my modpack download this patch | https://files.catbox.moe/1rmyjr.zip
 	
