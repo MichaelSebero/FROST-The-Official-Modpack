@@ -52,6 +52,7 @@
 *aFrostMod.esp
 *FROST - UFO4P Patch.esp
 *New Magazines_(Frost).esp
+*FROST - PrewarMoneyConvert.esp
 *Frost_Marshlands_Patch.esp
 *FROST The Forest Patch.esp
 *RedsFrostBlurRemoval.esp
